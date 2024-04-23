@@ -31,5 +31,5 @@ The Blue Team Level 1 Certification Course work provides practical cybersecurity
 <p><i>Ref 2: Reserve DNS lookup using PowerShell. Domain is highlight in red</i></p>
 
 <img src="https://i.imgur.com/xdIPzVz.jpg" style="width: 85%;" alt="1">
-<p><i>Ref 3: Sample email attachment hashes displayed using PowerShell. Note nested commands. Default "get-filehash" command displays SHA256 hash values</i></p>
+<p><i>Ref 3: Sample email attachment hashes displayed using PowerShell. Note nested commands. Default "get-filehash" command displays SHA256 hash values, "-algorithm..." will display specific hashes</i></p>
 File hashes may reveal potential malware 'out in the wild'. Once discovered during forensics work, a cross reference made on malware repositories (virustotal.com) may return a malware profile.
