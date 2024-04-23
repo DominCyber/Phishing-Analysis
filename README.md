@@ -32,3 +32,4 @@ The Blue Team Level 1 Certification Course work provides practical cybersecurity
 
 <img src="https://i.imgur.com/xdIPzVz.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 3: Sample email attachment hashes displayed using PowerShell. Note nested commands. Default "get-filehash" command displays SHA256 hash values</i></p>
+Filehashes may reveal potential malware 'out in the wild' during forensics work on affected organizational assets.
