@@ -7,7 +7,7 @@ The Blue Team Level 1 Certification Course work provides practical cybersecurity
 -Conduct email manual artifact extraction
 <p>--Sender and recipient addresses</p>
 <p>--Sender Server IP address</p>
-<p>--Attachment Hashes</p>
+<p>-Examine email attachment hashes</p>
 <p>-Examine email coding using Sublime 3 Text Editor</p>
 <p>-PowerShell reverse DNS lookup on IP addresses</p>
 <p>-PowerShell commands</p>
