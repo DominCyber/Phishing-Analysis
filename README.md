@@ -1,10 +1,10 @@
-# Phishing Analysis - Manual Artifact Extraction
+# Phishing Analysis
 
 ## Objective
-The Blue Team Level 1 Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment and sample emails to familiarize cybersecurity professionals with manually extracting artifacts for phishing analysis.
+The Blue Team Level 1 Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment, sample emails, and a sample credential harvester to familiarize cybersecurity professionals with phishing analysis.
 
 ### Skills Learned
--Email signature analysis
+-Conduct email manual artifact extraction
 <p>--Sender and recipient addresses</p>
 <p>--Sender Server IP address</p>
 <p>--Attachment Hashes</p>
