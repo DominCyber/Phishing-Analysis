@@ -18,7 +18,6 @@ The Blue Team Level 1 Certification Course work provides practical cybersecurity
 ### Tools Used
 -Laptop
 <p>-Blue Team Level 1 Certification Course</p>
-<p>-Thunderbird Mailing Service</p>
 <p>-Sublime 3 Text Editor</p>
 <p>-PowerShell CLI</p>
 <p>-Chrome Developer Tool</p>
